@@ -1,11 +1,11 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Testedking with Blockbench",
 	"textures": {
-		"0": "models/Main",
-		"2": "models/Thin",
-		"3": "models/Tall",
-		"4": "models/Short",
-		"5": "models/Flat",
+		"0": "models/crystal/Main",
+		"2": "models/crystal/Thin",
+		"3": "models/crystal/Tall",
+		"4": "models/crystal/Short",
+		"5": "models/crystal/Flat",
 		"particle": "models/Main"
 	},
 	"elements": [
