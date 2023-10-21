@@ -1,0 +1,21 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/firework_star",
+        "layer1": "item/firework_star_overlay"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1000
+            },
+            "model": "custom/diamond_stone_model"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1001
+            },
+            "model": "custom/emeral_3d"
+        }
+    ]
+}

@@ -3,6 +3,15 @@
         {
             "type": "single",
             "resource": "minecraft:ao5yv"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:emerald_3d"
+        },
+        {
+            "type": "directory",
+            "source": "models",
+            "prefix": "models/"
         }
     ]
 }
