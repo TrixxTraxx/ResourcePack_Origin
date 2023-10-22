@@ -3,7 +3,7 @@
 	"textures": {
 		"1": "models/rocket/rocket_launcher",
 		"3": "models/rocket/rocket_projectile",
-		"particle": "potato"
+		"particle": "models/rocket/potato"
 	},
 	"elements": [
 		{
@@ -118,5 +118,10 @@
 				"down": {"uv": [15, 0, 11, 1], "rotation": 180, "texture": "#3"}
 			}
 		}
-	]
+	],
+	"display": {
+		"firstperson_righthand": {
+			"translation": [10, -4, 4]
+		}
+	}
 }
