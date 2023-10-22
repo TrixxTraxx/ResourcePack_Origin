@@ -73,5 +73,10 @@
 				"down": {"uv": [0, 0, 0, 4], "texture": "#0"}
 			}
 		}
-	]
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2.25, 0]
+		}
+	}
 }
