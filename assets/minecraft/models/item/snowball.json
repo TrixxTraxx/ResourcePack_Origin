@@ -9,6 +9,12 @@
                 "custom_model_data": 1000
             },
             "model": "custom/ice_spike_spike"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1001
+            },
+            "model": "custom/potato"
         }
     ]
 }
